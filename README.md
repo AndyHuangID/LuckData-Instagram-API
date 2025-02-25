@@ -1,4 +1,7 @@
 # LuckData-Instagram-API
+
+Luckdata provides an API with 100 free credits every month. This allows small businesses or individuals with low data requirements to use the API for tasks such as testing and data analysis.
+
 LuckData Instagram API,you can use it to get Instagram user profiles, post details, search and more. We will consistently maintain and update it to make your work more convenient
 
 Luckdata is a third-party API provider that specializes in offering simple and fast Instagram data acquisition services. Compared to the official API, Luckdata offers significant advantages in simplifying the operation process, providing customizable services, and lowering the entry barrier.
